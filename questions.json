@@ -1,18 +1,18 @@
 [
   {
-    "question": "Inside which HTML element do we put the JavaScript??",
-    "choice1": "<script>",
-    "choice2": "<javascript>",
-    "choice3": "<js>",
-    "choice4": "<scripting>",
+    "question": "What is the capital of India?",
+    "choice1": "Delhi",
+    "choice2": "Mumbai",
+    "choice3": "Kolkata",
+    "choice4": "Chandigarh",
     "answer": 1
   },
   {
-    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-    "choice1": "<script href='xxx.js'>",
-    "choice2": "<script name='xxx.js'>",
-    "choice3": "<script src='xxx.js'>",
-    "choice4": "<script file='xxx.js'>",
+    "question": "What is 25+14?",
+    "choice1": "30",
+    "choice2": "37",
+    "choice3": "39",
+    "choice4": "40",
     "answer": 3
   },
   {
